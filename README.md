@@ -31,7 +31,7 @@
 10.  If you want to delete all the fasta files in that folder too, paste the command below in the terminal
     
     ```bash
-    rm *.fa 
+    rm *.fa
     ```
     
 11.  Now copy the reference table from the website([https://amtdb.org/records/](https://amtdb.org/records/)) and paste it into an excel sheet. Save it as a .csv file(with separator as tab). Name the file as ReferenceTable.csv
