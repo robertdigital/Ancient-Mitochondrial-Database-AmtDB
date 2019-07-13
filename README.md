@@ -1,6 +1,6 @@
 # Ancient-Mitochondrial-Database-AmtDB
 
-#### Understanding the role of dinucleotides, especially CpG dinucleotides in the evolution of human mitochondrial DNA sequences
+1.  Understanding the role of dinucleotides, especially CpG dinucleotides in the evolution of human mitochondrial DNA             sequences
 
 2.  Download all the fasta files available on the AmtDB website(https://amtdb.org/records/)
     
@@ -43,7 +43,7 @@
     [*mergedData.csv*]() is the file needed to analyse now.
     
 
-###### Checking if all the needds for the code are satisfied on your system or not. We've used Python3 for this purpose along with bash scripting. You'll need to have Python3(3.5.x or higher) installed on your system along with some of its modules (pandas, openpyxl)
+#### Checking if all the needds for the code are satisfied on your system or not. We've used Python3 for this purpose along with bash scripting. You'll need to have Python3(3.5.x or higher) installed on your system along with some of its modules (pandas, openpyxl)
 
 *How to check if you've python3 installed on your system or not:*
 
